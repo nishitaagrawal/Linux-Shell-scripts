@@ -1,0 +1,1 @@
+This repository consists of basic codes in shell script I did in my SEM 4.
